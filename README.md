@@ -1,4 +1,4 @@
-# 2147483648
+# 4294967296
 A small clone of 2048, originally by Gabriele Cirulli, which is conceptually similar to Threes! by Asher Vollmer.
 [Play the original game here!](http://gabrielecirulli.github.io/2048/)
 
@@ -7,11 +7,11 @@ Check the original developer of this game, Gabriele Cirulli's official 2048 on t
 ## Disclaimer
 This site is a clone of [2147483648](https://cyberzhg.github.io/2048/) by CyberZHG, which was originally based on Gabriele Cirulli's [2048](https://gabrielecirulli.github.io/2048/), which itself is based on [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), and conceptually similar to [Threes](https://asherv.com/threes/).
 
-Play 2147483648 [right here.](http://theastronomer.github.io/2147483648/)
+Play 4294967296 [right here.](http://theastronomer.github.io/2147483648/)
 
 You can find and follow me on Github [right here.](https://github.com/theastronomer)
 
-**NEW:** I added 2 other clones of 2147483648 - [2147483648 - Size 32](https://rawgit.com/TheAstronomer/2147483648/size32/index.html) and [2147483648 - Animated Edition](https://rawgit.com/TheAstronomer/2147483648/master/index.html). The first one can support grid sizes up to 32x32, and the second one has cooler designs and animated tiles! I also added Lucas numbers (2, 1, 3, 4, 7, 11, 18, 29, 47, 76...) and Troll mode (moves in random directions whenever you make a move) to the game and it is available on all 2147483648 sites. The game has been modified for endless gameplay too!
+**NEW:** I added 2 other clones of 4294967296 - [9007199254740992 - Size 32](https://rawgit.com/TheAstronomer/2147483648/size32/index.html) and [8589934592 - Animated Edition](https://rawgit.com/TheAstronomer/2147483648/master/index.html). The first one can support grid sizes up to 32x32, and the second one has cooler designs and animated tiles! I also added Lucas numbers (2, 1, 3, 4, 7, 11, 18, 29, 47, 76...) and Troll mode (moves in random directions whenever you make a move) to the game and it is available on all 4294967296  sites. The game has been modified for endless gameplay too!
 
 ***Update***: Added 2048 Chemistry variants, in which two adjacent tiles with the same element can merge to form a tile of the next element. For example, two Selenium (Se) tiles can merge to form a Bromine (Br) tile.
 
