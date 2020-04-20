@@ -1,4 +1,4 @@
-# 2147483648
+# 9007199254740992
 A small clone of 2048, originally by Gabriele Cirulli, which is conceptually similar to Threes! by Asher Vollmer.
 [Play the original game here!](http://gabrielecirulli.github.io/2048/)
 
@@ -11,7 +11,7 @@ Check Gabriele Cirulli's official 2048 on the [Play Store](https://play.google.c
 ## Disclaimer
 This site is a clone of [2147483648](https://cyberzhg.github.io/2048/) by CyberZHG, which was originally based on Gabriele Cirulli's [2048](https://gabrielecirulli.github.io/2048/), which is based on [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), and conceptually similar to [Threes](https://asherv.com/threes/).
 
-This site can support grid sizes up to 32×32!
+This 9007199254740992 site can support grid sizes up to 32×32!
 
 Plei dat gaem [rite heer.](http://rawgit.com/TheAstronomer/2147483648/size32/index.html)
 
