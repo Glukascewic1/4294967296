@@ -32,7 +32,7 @@
     </div>
 
     <div class="above-game">
-      <p class="game-intro">Join the numbers and get the highest score in this page!</p>
+      <p class="game-intro">Join the numbers and get to the 256 tile!</p>
       <a class="restart-button">Play again</a>
     </div>
 
@@ -88,7 +88,7 @@
   <script src="js_2048/local_storage_manager.js"></script>
   <script src="js_2048/game_manager.js"></script>
   <script>
-  var Goal = 0.5
+  var Goal = 256
   window.requestAnimationFrame(function () {
   new GameManager(3, KeyboardInputManager, HTMLActuator, LocalStorageManager);
   });
